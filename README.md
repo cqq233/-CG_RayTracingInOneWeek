@@ -15,5 +15,6 @@
 ![04](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/b8096283-c884-4030-a800-c2b6041f0e88)
 ![03](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/c5699599-c1c7-4756-9d2a-f2703c9ab558)
 ![02](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/b447284e-1b71-4730-8de7-a5659a84992d)
-![01](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/7fd1d1d7-6bc2-4928-85f8-![11](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/25da6f62-2a63-4b1f-804f-f94338cffb0f)
+![01](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/7fd1d1d7-6bc2-4928-85f8-794c13f17132)
+![11](https://github.com/cqq233/-CG_RayTracingInOneWeek/assets/90322631/25da6f62-2a63-4b1f-804f-f94338cffb0f)
 794c13f17132)
